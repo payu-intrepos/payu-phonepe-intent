@@ -1,1 +1,1 @@
-### Integration of PayU PhonePe Intent (Latest version 1.2.0)
+### Integration of PayU PhonePe Intent (Latest version 1.3.0)
