@@ -8,4 +8,4 @@ Web Flow
 If the user device doesn't have PhonePe application installed, we will show the Web checkout to make the payment, where the customer can make the payment by logging into the PhonePe and using the available payment methods.
 
 Documentation: 
-https://payumobile.gitbook.io/sdk-integration/android/phonepe
+https://devguide.payu.in/mobile-sdk-android/phonepe/
