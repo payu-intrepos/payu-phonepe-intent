@@ -1,4 +1,4 @@
-### Integration of PayU PhonePe Intent (Latest version 1.7.2)
+### Integration of PayU PhonePe Intent (Latest version 1.7.3)
 We are offering two types of PhonePe flows.
 
 In-App Flow
